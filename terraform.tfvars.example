@@ -1,0 +1,4 @@
+subscription_id  = "PUT YOUR SUBSCRIPTION HERE"
+tenant_id      = "PUT YOUR TENANT ID HERE"
+client_id     = "PUT YOUR CLIENT HERE"
+client_secret = "PUT YOUR SUBSCRIPTION HERE"
